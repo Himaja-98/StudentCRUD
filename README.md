@@ -14,3 +14,8 @@ ASP.NET Core MVC + Entity Framework Core sample app (Student CRUD).
 4. Apply migrations:
    ```bash
    dotnet ef database update --project AspNetCoreCRUD
+
+
+Output
+<img width="1712" height="782" alt="image" src="https://github.com/user-attachments/assets/29ee2feb-099f-4654-af73-6c46a0504b67" />
+<img width="1268" height="922" alt="image" src="https://github.com/user-attachments/assets/cabce9ff-d356-427a-ac32-f0c01cfe1ee5" />
